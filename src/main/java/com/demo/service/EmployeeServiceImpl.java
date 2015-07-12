@@ -17,7 +17,6 @@ public class EmployeeServiceImpl implements EmpService {
 
 	@Override
 	public Response getEmployeeDetail() {
-		// TODO Auto-generated method stub
 		return Response.ok(empDao.getEmpDetails()).build();
 	}
 
