@@ -8,7 +8,6 @@ import com.demo.dao.EmployeeDao;
 
 public class EmployeeServiceImpl implements EmpService {
 	public EmployeeServiceImpl() {
-		// TODO Auto-generated constructor stub
 		System.out.println("serviceimpl object is created");
 	}
 	

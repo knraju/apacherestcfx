@@ -5,7 +5,6 @@ import com.demo.model.Employee;
 public class EmployeeDao {
 	
 	public EmployeeDao() {
-		// TODO Auto-generated constructor stub
 		System.out.println("object created");
 	}
 	public Employee getEmpDetails() {
